@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DocExemplo1</string>
+    <string name="edit_message">Digite aqui...</string>
+    <string name="button_send">Enviar</string>
+</resources>
